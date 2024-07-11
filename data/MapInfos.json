@@ -3,6 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
 {"id":2,"expanded":true,"name":"Ulica","order":2,"parentId":1,"scrollX":819,"scrollY":461},
 {"id":3,"expanded":true,"name":"Klatka","order":3,"parentId":2,"scrollX":819,"scrollY":461},
+<<<<<<< Updated upstream
 {"id":4,"expanded":true,"name":"Salon :3","order":5,"parentId":5,"scrollX":819,"scrollY":461},
 {"id":5,"expanded":true,"name":"Wejście","order":4,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"SALON","order":10,"parentId":8,"scrollX":819,"scrollY":461},
@@ -14,4 +15,17 @@ null,
 {"id":12,"expanded":true,"name":"VOID","order":9,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":13,"expanded":false,"name":"Łazienka","order":11,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":14,"expanded":true,"name":"Balkon","order":13,"parentId":8,"scrollX":832,"scrollY":640}
+=======
+{"id":4,"expanded":true,"name":"Salon :3","order":9,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":5,"expanded":true,"name":"Wejście","order":8,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":true,"name":"SALON","order":10,"parentId":4,"scrollX":459,"scrollY":315},
+{"id":7,"expanded":true,"name":"Klatka","order":4,"parentId":3,"scrollX":819,"scrollY":461},
+{"id":8,"expanded":true,"name":"Pokój tur tur","order":12,"parentId":4,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":true,"name":"Pokój TORTUR","order":13,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":10,"expanded":true,"name":"Korytarz","order":5,"parentId":7,"scrollX":819,"scrollY":461},
+null,
+{"id":12,"expanded":false,"name":"VOID","order":6,"parentId":10,"scrollX":819,"scrollY":461},
+{"id":13,"expanded":false,"name":"Łazienka","order":7,"parentId":10,"scrollX":819,"scrollY":461},
+{"id":14,"expanded":false,"name":"Balkon","order":11,"parentId":6,"scrollX":819,"scrollY":461}
+>>>>>>> Stashed changes
 ]
