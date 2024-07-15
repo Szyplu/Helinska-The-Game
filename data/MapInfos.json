@@ -7,6 +7,7 @@ null,
 {"id":5,"expanded":true,"name":"Wejście","order":4,"parentId":3,"scrollX":819,"scrollY":461},
 {"id":6,"expanded":true,"name":"SALON","order":10,"parentId":8,"scrollX":819,"scrollY":461},
 <<<<<<< HEAD
+<<<<<<< HEAD
 {"id":7,"expanded":false,"name":"Dach","order":14,"parentId":14,"scrollX":819,"scrollY":461},
 {"id":8,"expanded":true,"name":"Pokój tur tur","order":6,"parentId":1,"scrollX":819,"scrollY":448},
 {"id":9,"expanded":true,"name":"Pokój TORTUR","order":7,"parentId":8,"scrollX":819,"scrollY":448},
@@ -18,6 +19,10 @@ null,
 =======
 {"id":7,"expanded":false,"name":"Dach","order":15,"parentId":14,"scrollX":819,"scrollY":448},
 {"id":8,"expanded":true,"name":"Pokój tur tur","order":6,"parentId":1,"scrollX":819,"scrollY":448},
+=======
+{"id":7,"expanded":false,"name":"Dach","order":15,"parentId":14,"scrollX":819,"scrollY":448},
+{"id":8,"expanded":true,"name":"Pokój tur tur","order":6,"parentId":1,"scrollX":819,"scrollY":448},
+>>>>>>> parent of a8d0882 (Revert "te jebane tunele")
 {"id":9,"expanded":true,"name":"Pokój TORTUR","order":7,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":10,"expanded":true,"name":"Korytarz","order":8,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":11,"expanded":false,"name":"Kuchnia","order":13,"parentId":8,"scrollX":819,"scrollY":461},
@@ -25,5 +30,8 @@ null,
 {"id":13,"expanded":false,"name":"Łazienka","order":12,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":14,"expanded":true,"name":"Balkon","order":14,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":15,"expanded":false,"name":"Vent","order":11,"parentId":6,"scrollX":832,"scrollY":640}
+<<<<<<< HEAD
 >>>>>>> 0f9b0f3 (te jebane tunele)
+=======
+>>>>>>> parent of a8d0882 (Revert "te jebane tunele")
 ]
