@@ -15,6 +15,6 @@ null,
 {"id":13,"expanded":false,"name":"Łazienka","order":13,"parentId":8,"scrollX":655.2,"scrollY":368.8},
 {"id":14,"expanded":true,"name":"Balkon","order":15,"parentId":8,"scrollX":655.2,"scrollY":368.8},
 {"id":15,"expanded":true,"name":"Vent","order":11,"parentId":6,"scrollX":655.2,"scrollY":368.8},
-{"id":16,"expanded":false,"name":"Piwnica","order":12,"parentId":15,"scrollX":791.2,"scrollY":1077.6},
+{"id":16,"expanded":false,"name":"Piwnica","order":12,"parentId":15,"scrollX":783.2,"scrollY":533.6},
 {"id":17,"expanded":false,"name":"FORT","order":17,"parentId":8,"scrollX":655.2,"scrollY":368.8}
 ]
