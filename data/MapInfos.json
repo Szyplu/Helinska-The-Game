@@ -4,6 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"Ulica","order":2,"parentId":1,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":true,"name":"Klatka","order":3,"parentId":2,"scrollX":832,"scrollY":640},
 {"id":4,"expanded":true,"name":"Salon :3","order":5,"parentId":5,"scrollX":655.2,"scrollY":368.8},
+<<<<<<< HEAD
 {"id":5,"expanded":true,"name":"Wejście","order":4,"parentId":3,"scrollX":832,"scrollY":640},
 {"id":6,"expanded":true,"name":"SALON","order":11,"parentId":8,"scrollX":819,"scrollY":461},
 {"id":7,"expanded":false,"name":"Dach","order":18,"parentId":14,"scrollX":655.2,"scrollY":368.8},
@@ -16,6 +17,20 @@ null,
 {"id":14,"expanded":true,"name":"Balkon","order":17,"parentId":8,"scrollX":655.2,"scrollY":368.8},
 {"id":15,"expanded":true,"name":"Vent","order":12,"parentId":6,"scrollX":655.2,"scrollY":368.8},
 {"id":16,"expanded":true,"name":"Piwnica","order":13,"parentId":15,"scrollX":811,"scrollY":700},
+=======
+{"id":5,"expanded":true,"name":"Wejście","order":4,"parentId":3,"scrollX":655.2,"scrollY":368.8},
+{"id":6,"expanded":true,"name":"SALON","order":11,"parentId":8,"scrollX":819,"scrollY":448},
+{"id":7,"expanded":false,"name":"Dach","order":18,"parentId":14,"scrollX":819,"scrollY":448},
+{"id":8,"expanded":true,"name":"Pokój tur tur","order":7,"parentId":1,"scrollX":655.2,"scrollY":368.8},
+{"id":9,"expanded":true,"name":"Pokój TORTUR","order":8,"parentId":8,"scrollX":655.2,"scrollY":368.8},
+{"id":10,"expanded":true,"name":"Korytarz","order":9,"parentId":8,"scrollX":655.2,"scrollY":368.8},
+{"id":11,"expanded":false,"name":"Kuchnia","order":16,"parentId":8,"scrollX":819,"scrollY":448},
+{"id":12,"expanded":true,"name":"VOID","order":10,"parentId":8,"scrollX":655.2,"scrollY":368.8},
+{"id":13,"expanded":false,"name":"Łazienka","order":15,"parentId":8,"scrollX":819,"scrollY":448},
+{"id":14,"expanded":true,"name":"Balkon","order":17,"parentId":8,"scrollX":819,"scrollY":448},
+{"id":15,"expanded":true,"name":"Vent","order":12,"parentId":6,"scrollX":655.2,"scrollY":368.8},
+{"id":16,"expanded":true,"name":"Piwnica","order":13,"parentId":15,"scrollX":811,"scrollY":680},
+>>>>>>> 13259b7925b46cc14f40bd86e2c737571ce4ebf1
 {"id":17,"expanded":true,"name":"FORT","order":19,"parentId":8,"scrollX":655.2,"scrollY":368.8},
 {"id":18,"expanded":true,"name":"ALT ","order":20,"parentId":17,"scrollX":655.2,"scrollY":368.8},
 {"id":19,"expanded":false,"name":"ALT ŁAŻNIA","order":21,"parentId":18,"scrollX":655.2,"scrollY":368.8},
@@ -23,6 +38,11 @@ null,
 {"id":21,"expanded":true,"name":"ALT SALON","order":24,"parentId":18,"scrollX":655.2,"scrollY":368.8},
 {"id":22,"expanded":false,"name":"ALT KUCHNIA","order":22,"parentId":18,"scrollX":655.2,"scrollY":368.8},
 {"id":23,"expanded":true,"name":"ALT TORTUR","order":25,"parentId":18,"scrollX":655.2,"scrollY":368.8},
+<<<<<<< HEAD
 {"id":24,"expanded":false,"name":"Piwnica","order":14,"parentId":16,"scrollX":811,"scrollY":461},
 {"id":25,"expanded":true,"name":"Klatka2","order":6,"parentId":3,"scrollX":832,"scrollY":640}
+=======
+{"id":24,"expanded":false,"name":"Piwnica","order":14,"parentId":16,"scrollX":811,"scrollY":448},
+{"id":25,"expanded":true,"name":"Klatka2","order":6,"parentId":3,"scrollX":655.2,"scrollY":368.8}
+>>>>>>> 13259b7925b46cc14f40bd86e2c737571ce4ebf1
 ]
